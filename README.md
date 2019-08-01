@@ -18,6 +18,7 @@ For Accessibility and SEction 508 compliance we use JAWS, AXE, and Wave.
 
 In DEVSECOPS we have experience with Gluon, RetinaNet, Grad-Cam and ESRI products for image analysis and for CI/CD we have Git, TFS, SourceForge on solutions built with Angular 2, AngularJS, NodeJS, D3.js, JQuery, Bootstrap, Spark, and C#.
 As part of our Prime contract at USDA, we provide oversight of ongoing Agile projects, evaluating sprint and scrum activities through version and project control elements such as Azure DEVOPS, and Microsoft SharePoint. SharePoint acts as a common repository for all project management artifacts and for each Release the suite of documents is updated. Each year an annual forecast of expected release specific functional domains and deliverables by Epic are identified. The resources and schedule are recorded in an online version of Microsoft Project for the CIO and leadership to track. When each release begins the results of sprint planning are entered TFS along with complexity, story points, and user stories that have been groomed and curated from a backlog. An example of our solution architecture integrating FOSS into DOD STIG servers with elements validated for Certificates of Networthiness.
+
 ![alt text](https://github.com/organongitmanager/PC-DEVSECOPS/blob/master/CICD%20with%20OSS.png "Organon FOSS AWS and MilCloud Architecture")
 
 ### Agile DEVESECOPS Expertise
